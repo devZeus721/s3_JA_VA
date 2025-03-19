@@ -6,7 +6,7 @@ public class Main {
         System.out .println("The World is too cruel i see still now yet, need to discover up soon");
         String u = "I am a programmer great WORLD done!";
         System.out.println(u);
-        int a,b,c;
+        int a,b;;
         System.out.println("Enter the first number");
         Scanner s = new Scanner(System.in);
         a = s.nextInt();
