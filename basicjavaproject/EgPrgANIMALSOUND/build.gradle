@@ -5,12 +5,14 @@ plugins {
 group 'com.example'
 version '1.0-SNAPSHOT'
 
+sourceCompatibility = '1.8'
+
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    // Add your project dependencies here
+    testImplementation 'junit:junit:4.12'
 }
 
 test {
