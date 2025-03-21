@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mainOperators",
+            "request": "launch",
+            "mainClass": "mainOperators",
+            "projectName": "s3_JA_VA_fc6982c6"
+        },
+        {
+            "type": "java",
             "name": "mListener1",
             "request": "launch",
             "mainClass": "mListener1",
