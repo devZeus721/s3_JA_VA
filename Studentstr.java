@@ -1,14 +1,15 @@
+//string Usage comes here
 public class Studentstr {
-    String nam;
-    String idno;
+    String nam;//iniialing String
+    String idno;//iniialing String
     int age;
     char div;
 
     public static void main(String[] args) {
         Studentstr st1 = new Studentstr();
         Studentstr st2 = new Studentstr();
-        st1.nam = "James Steve";
-        st2.nam = "Roger Federer";
+        st1.nam = "James Steve";//string representing
+        st2.nam = "Roger Federer";//string representing
         st1.idno = "3433";
         st2.idno = "3434";
         st1.age = 21;
