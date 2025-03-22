@@ -1,7 +1,10 @@
 # s3_JA_VA
  s3JAVAAA
- SYLLABUS
+ 
+SYLLABUS
+
 Object Oriented Programming Using Java
+
 Module 1
 Introduction:
 Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Case
@@ -12,6 +15,7 @@ chart diagram.
 Introduction to Java - Java programming Environment and Runtime Environment, Development
 Platforms -Standard, Enterprise. Java Virtual Machine (JVM), Java compiler, Bytecode, Java
 applet, Java Buzzwords, Java program structure, Comments, Garbage Collection, Lexical Issues.
+
 Module 2
 Core Java Fundamentals:
 Primitive Data types - Integers, Floating Point Types, Characters, Boolean. Literals, Type
@@ -26,6 +30,7 @@ Variables, Inner Classes, Command Line Arguments, Variable Length Arguments.
 Inheritance - Super Class, Sub Class, The Keyword super, protected Members, Calling Order of
 Constructors, Method Overriding, the Object class, Abstract Classes and Methods, using final
 with Inheritance.
+
 Module 3
 More features of Java:
 Packages and Interfaces - Defining Package, CLASSPATH, Access Protection, Importing
@@ -34,6 +39,7 @@ Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block and cat
 Multiple catch Clauses, Nested try Statements, throw, throws and finally.
 Input/Output - I/O Basics, Reading Console Input, Writing Console Output, PrintWriter Class,
 Object Streams and Serialization, Working with Files.
+
 Module 4
 Advanced features of Java:
 Java Library - String Handling – String Constructors, String Length, Special String Operations -
@@ -46,6 +52,7 @@ Event handling - Event Handling Mechanisms, Delegation Event Model, Event Classe
 of Events, Event Listener Interfaces, Using the Delegation Model.
 Multithreaded Programming - The Java Thread Model, The Main Thread, Creating Thread,
 Creating Multiple Threads, Synchronization, Suspending, Resuming and Stopping Threads.
+
 Module 5
 Graphical User Interface and Database support of Java:
 Swings fundamentals - Swing Key Features, Model View Controller (MVC), Swing Controls,
