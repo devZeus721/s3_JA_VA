@@ -1,12 +1,12 @@
-public class Student {
+public class Studentstr {
     String nam;
     String idno;
     int age;
     char div;
 
     public static void main(String[] args) {
-        Student st1 = new Student();
-        Student st2 = new Student();
+        Studentstr st1 = new Studentstr();
+        Studentstr st2 = new Studentstr();
         st1.nam = "James Steve";
         st2.nam = "Roger Federer";
         st1.idno = "3433";
